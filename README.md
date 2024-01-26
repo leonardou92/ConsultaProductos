@@ -1,7 +1,7 @@
-#BarcodeScanner
+# BarcodeScanner
 Este proyecto es un escáner de códigos de barras desarrollado utilizando React Native. Permite a los usuarios escanear códigos de barras o buscar productos ingresando un código manualmente. Utiliza la cámara del dispositivo para leer los códigos de barras y realiza consultas a una API para obtener información sobre los productos escaneados o buscados.
 
-#Dependencias
+# Dependencias
 
 El proyecto utiliza las siguientes dependencias:
 
@@ -48,7 +48,7 @@ Escanear el código QR con la aplicación Expo Go en tu dispositivo móvil o eje
 
 Una vez completados estos pasos, la aplicación se ejecutará y podrás comenzar a escanear códigos de barras o buscar productos ingresando códigos manualmente.
 
-#Autor
+# Autor
 Este proyecto fue realizado por Leonardo Urdaneta. Puedes encontrar más información sobre el autor en su perfil de GitHub.
 
 ¡Disfruta escaneando códigos de barras con esta aplicación!
