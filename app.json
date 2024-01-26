@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "barcode",
+    "slug": "barcode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/logo.webp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/image/logo.webp",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["assets/**/*"],
+    "packagerOpts": {
+      "assetRegistryPath": "assets/asset-registry.json"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/image/logo.webp",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.leozinc.barcode"
+    },
+    "web": {
+      "favicon": "./assets/image/logo.webp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c83ed76b-6b36-48e7-a6ce-cdbbc8aba06d"
+      }
+    }
+  }
+}
