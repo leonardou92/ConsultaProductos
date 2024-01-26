@@ -79,8 +79,16 @@ const BarcodeScanner = () => {
   const handleSearch = async () => {
     try {
       setIsLoading(true); // Activar indicador de carga
-
-      const response = await axios.post('http://developer.icarosoft.com:8092/scriptcase/app/webservice/getProducts/', {
+      /*
+      Los resultado de la api debe tener la siguiente estructura de ejemplo
+      {
+        status: true, //true or false
+        descripcion: 'producto de prueba', //descripcion del productos
+        precio: 10, //precio del producto
+        moneda: 'USD' // moneda del precio
+      }
+      */ 
+      const response = await axios.post('URL_API', {
         co_prod: searchText,
       });
 
