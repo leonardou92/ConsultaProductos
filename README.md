@@ -58,7 +58,13 @@ Escanear el código QR con la aplicación Expo Go en tu dispositivo móvil o eje
 
 Una vez completados estos pasos, la aplicación se ejecutará y podrás comenzar a escanear códigos de barras o buscar productos ingresando códigos manualmente.
 
-Autor
+# CAPTURAS DE PANTALLA
+![image](https://github.com/leonardou92/ConsultaProductos/assets/24704063/52719f01-bbe6-4529-827a-987e5cfb76c6)
+![image](https://github.com/leonardou92/ConsultaProductos/assets/24704063/3324212a-c46f-4964-a586-998a95b265ec)
+![image](https://github.com/leonardou92/ConsultaProductos/assets/24704063/6095f0b5-51e3-44a0-91be-be1fe160e7d8)
+![image](https://github.com/leonardou92/ConsultaProductos/assets/24704063/bd4fadd7-4741-4b64-b543-10a88d072046)
+
+# Autor
 Este proyecto fue realizado por Leonardo Urdaneta. Puedes encontrar más información sobre el autor en su perfil de GitHub (https://github.com/leonardou92).
 
 ¡Disfruta escaneando códigos de barras con esta aplicación!
