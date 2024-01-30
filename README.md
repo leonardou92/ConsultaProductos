@@ -43,12 +43,12 @@ Configurar la URL de la API en el código fuente del proyecto. Reemplaza 'URL_AP
 
 La estructura del json de la api debe ser:
 
-{
-    status: true, //true or false
-    descripcion: 'producto de prueba', //descripcion del productos
-    precio: 10, //precio del producto
-    moneda: 'USD' // moneda del precio
-}
+    {
+        status: true, //true or false
+        descripcion: 'producto de prueba', //descripcion del productos
+        precio: 10, //precio del producto
+        moneda: 'USD' // moneda del precio
+    }
 
 Ejecutar el siguiente comando para iniciar la aplicación:
 
