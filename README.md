@@ -1,6 +1,6 @@
 Este proyecto es un escáner de códigos de barras desarrollado utilizando React Native. Permite a los usuarios escanear códigos de barras o buscar productos ingresando un código manualmente. Utiliza la cámara del dispositivo para leer los códigos de barras y realiza consultas a una API para obtener información sobre los productos escaneados o buscados.
 
-#Dependencias
+# Dependencias
 
 El proyecto utiliza las siguientes dependencias:
 
@@ -21,7 +21,7 @@ Visualización de los resultados de búsqueda en un diálogo.
 Manejo de errores en caso de fallas en la consulta a la API.
 Interfaz de usuario intuitiva con botones y campos de texto.
 
-#Instalación
+# Instalación
 
 Para ejecutar este proyecto, se deben realizar las siguientes instalaciones de dependencias:
 
